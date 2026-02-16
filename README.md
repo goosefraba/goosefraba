@@ -21,11 +21,6 @@
 ## Projects & Experiments
 
 - 🏙️ **[Megacorp Web Game](https://github.com/goosefraba/megacorp-web-game)** — Browser strategy game where you build a global AI megacorp, manage regional infrastructure, take SLA contracts, and race toward AGI
-- 📱 **[SparkLog](https://github.com/goosefraba/spark-log-app)** — iOS app built with Swift
-- 📦 **[packer-aws-example](https://github.com/goosefraba/packer-aws-example)** — Creating AWS AMIs with Packer (⭐ 13)
-- ☁️ **[aws-lambda-java-template](https://github.com/goosefraba/aws-lambda-java-template)** — AWS Lambda Java template (⭐ 9)
-- 🔧 **[cdk-v2-example](https://github.com/goosefraba/cdk-v2-example-custom-build-image)** — CDK v2 with staged CI/CD pipeline and custom build images
-- ⚡ **[aws-step-function-activity-example](https://github.com/goosefraba/aws-step-function-activity-example)** — Java-based Step Functions activity handler
 - 🎮 **[WTFAY](https://github.com/goosefraba/wow-addon-wtfay)** — "Who The F* Are You?" — A WoW TBC Classic addon to track, rate, and remember players
 
 ## Connect
