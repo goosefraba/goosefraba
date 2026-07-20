@@ -26,6 +26,7 @@
 
 ## Projects
 
+- 🥷 **[Ninja Nightfall](https://github.com/goosefraba/ninja-nightfall)** — Playable Three.js zombie wave-defense game: sword combos, a radial ultimate, sound, and mobile touch controls. [Play it →](https://ninja-nightfall.vercel.app)
 - 📝 **[Luminark](https://github.com/goosefraba/luminark)** — Native macOS markdown reader with glassy window chrome, dark/light themes, syntax-highlighted code blocks, and drag-and-drop file opening
 
 ## Experiments & Showcases
