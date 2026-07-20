@@ -24,11 +24,14 @@
 
 🏢 **[goosefraba GmbH](https://goosefraba.at)** — Software consulting & product development.
 
-## Projects & Experiments
+## Projects
 
 - 📝 **[Luminark](https://github.com/goosefraba/luminark)** — Native macOS markdown reader with glassy window chrome, dark/light themes, syntax-highlighted code blocks, and drag-and-drop file opening
+
+## Experiments & Showcases
+
+- 🪐 **[Solar System Explorer](https://github.com/goosefraba/solar-system-viewer)** — An interactive, high-fidelity Three.js solar-system explorer with animated orbits, realistic relative scales, planet focus navigation, and a ride-along camera mode. [Live demo](https://solar-system-explorer-chi-nine.vercel.app)
 - 🏙️ **[Megacorp Web Game](https://github.com/goosefraba/megacorp-web-game)** — Browser strategy game where you build a global AI megacorp, manage regional infrastructure, take SLA contracts, and race toward AGI
-- 🎮 **[WTFAY](https://github.com/goosefraba/wow-addon-wtfay)** — "Who The F* Are You?" — A WoW TBC Classic addon to track, rate, and remember players
 
 ## Connect
 
